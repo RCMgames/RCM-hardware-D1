@@ -10,3 +10,5 @@ UNDER DEVELOPMENT
   
 
 cheap RCM board using a Wemos D1 mini v4.0.0 board
+
+The D1 uses an esp8266. Use the AVR versions of JMotor functions not the ESP32 versions.
