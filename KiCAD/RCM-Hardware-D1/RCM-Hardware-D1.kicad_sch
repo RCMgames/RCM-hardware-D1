@@ -964,10 +964,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d6fb8ad0-31e5-4536-8d4d-2d6489fd9096")
 		(property "Reference" "U1"
-			(at 106.68 38.1 0)
+			(at 106.68 41.148 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -975,7 +974,7 @@
 			)
 		)
 		(property "Value" "WeMos_D1_mini"
-			(at 106.68 40.64 0)
+			(at 106.68 43.18 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -988,6 +987,7 @@
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Datasheet" "http://www.wemos.cc/Products/d1_mini.html"
