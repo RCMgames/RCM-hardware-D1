@@ -5,7 +5,7 @@ v1.0
 UNDER DEVELOPMENT
 
 * ? by ? inches, ? by ? millimeters
-* 2 motors and 3 servos
+* 2 motors and 2 servos
 * battery monitoring
 
 Program with [RCMv2](https://github.com/rcmgames/rcmv2)
