@@ -10,10 +10,9 @@ UNDER DEVELOPMENT
 
 Program with [RCMv2](https://github.com/rcmgames/rcmv2)
 
-The D1 uses an esp8266. Use the AVR versions of JMotor functions not the ESP32 versions.
+The RCM D1 uses a Wemos D1 mini v4.0.0 esp8266 board. 
 
-
-cheap RCM board using a Wemos D1 mini v4.0.0 board
+Use the AVR versions of JMotor functions not the ESP32 versions.
 
 
 
