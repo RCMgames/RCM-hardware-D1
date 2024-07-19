@@ -58,7 +58,18 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "courtyards_overlap|155260001|94200001|b5c9795c-ad29-452e-ae72-6d17f97007b9|3784e90c-5d6e-47fb-bd47-e81fdb576bca",
+        "courtyards_overlap|162389999|73103009|b5c9795c-ad29-452e-ae72-6d17f97007b9|78fcbc8f-d53b-4642-88ee-58961d91508a",
+        "courtyards_overlap|164050001|90490001|b5c9795c-ad29-452e-ae72-6d17f97007b9|b5c50a0d-0ccf-40da-8ec5-060a041968e1",
+        "lib_footprint_issues|152359901|95291989|b4a8430d-284a-4849-a347-b2c6d55aecd3|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_issues|169393449|61655201|e6699211-64e8-4fe0-a106-59ab57029d6d|00000000-0000-0000-0000-000000000000",
+        "track_dangling|136207500|94297500|ab71cba8-b840-4057-8d7e-b805af4e8e01|00000000-0000-0000-0000-000000000000",
+        "track_dangling|136525000|93345000|beb9ef4a-76f8-4d8f-8e74-6d385e48ff51|00000000-0000-0000-0000-000000000000",
+        "track_dangling|137795000|95250000|1ae53cab-fa59-40f3-b786-b2b6a8cc4488|00000000-0000-0000-0000-000000000000",
+        "track_dangling|137795000|95885000|82f16ea3-df55-46f8-a76e-c9dceed95112|00000000-0000-0000-0000-000000000000",
+        "track_dangling|139065000|95885000|48bc810c-5071-4bd1-89c5-9996cd35676a|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -482,7 +493,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../../RCM-D1 Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
