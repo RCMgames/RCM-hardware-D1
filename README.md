@@ -22,6 +22,7 @@ The RCM D1 was originally created for [PNW Assistive Technology's RC car project
 
 ![screenshot of cad](https://github.com/RCMgames/RCM-hardware-D1/blob/main/CAD%20renders/image%201.jpg)
 
-Acknowledgements
+## Acknowledgements
+
 Thanks for the WemosD1 Kicad footprints! https://github.com/rubienr/wemos-d1-mini-kicad
 
