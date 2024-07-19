@@ -17,6 +17,8 @@ Use the AVR versions of JMotor functions not the ESP32 versions.
 
 The RCM D1 was originally created for [PNW Assistive Technology's RC car project](https://github.com/PNW-AT/rc-car-car)
 
+![screenshot of cad](https://github.com/RCMgames/RCM-hardware-D1/blob/main/CAD%20renders/image%201.jpg)
+
 Acknowledgements
 Thanks for the WemosD1 Kicad footprints! https://github.com/rubienr/wemos-d1-mini-kicad
 
