@@ -3,9 +3,12 @@
 v1.0
 
 * 1.75 by 1.575 inches, 44.45 by 40.0 millimeters
-* 2 motors and 2 servos
+* 2 motors (one L293D)
+* 2 servos OR qwiic connector
+* Qwiic-Compatible
+* runs on 4 NiMH AAs
 * battery monitoring
-* Qwiic compatible
+* uses a Wemos D1 mini with esp8266 CPU
 
 The goal of this project is to make the cheapest [RCM board](https://github.com/rcmgames).
 
