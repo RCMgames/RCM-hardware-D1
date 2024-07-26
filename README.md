@@ -20,6 +20,28 @@ Use the AVR versions of JMotor functions not the ESP32 versions.
 
 The RCM D1 was originally created for [PNW Assistive Technology's RC car project](https://github.com/PNW-AT/rc-car-car)
 
+## Options for purchasing
+
+* send the gerbers to a PCB manufacturer of your choice
+
+## Components
+Solder by hand to assemble your boards.
+| part | links | quantity | notes |
+| ----- | ----- | ----- | ----- |
+| RCM D1 circuit board | see options for purchasing above | 1 | |
+| Wemos D1 mini with esp8266 | [link](https://www.wemos.cc/en/latest/d1/d1_mini.html) | 1 | |
+| L293D | [digikey](https://www.digikey.com/en/products/detail/texas-instruments/L293DNE/379724) | 1 | |
+| 16 pin IC socket | | 1 | optional |
+| 22k resistor | | 1 | R1 |
+| 10k resistor | | 1 | R2 |
+| 47uF capacitor | | 1 | |
+| Qwiic connector (JST SH) | [digikey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/SM04B-SRSS-TB/926710) | 1 | optional, for qwiic connector |
+| 2x3 male header pins | | 1 | for servos |
+| 2 female header pins | | 2 | for motors |
+| 8 female header pins | | 2 | often included with the wemos D1 |
+| 8 male header pins | | 2 | often included with the wemos D1 |
+| battery wires | [JST RCY](https://www.amazon.com/dp/B00Z04QFN2/) or battery plug of your choice | 1 | |
+
 ![screenshot of cad](https://github.com/RCMgames/RCM-hardware-D1/blob/main/CAD%20renders/image%201.jpg)
 
 ## Acknowledgements
