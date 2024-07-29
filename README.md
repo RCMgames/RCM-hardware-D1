@@ -32,7 +32,7 @@ Solder by hand to assemble your boards.
 | Wemos D1 mini with esp8266 | [link](https://www.wemos.cc/en/latest/d1/d1_mini.html) | 1 | |
 | L293D | [digikey](https://www.digikey.com/en/products/detail/texas-instruments/L293DNE/379724) | 1 | |
 | 16 pin IC socket | | 1 | optional |
-| 22k resistor | | 1 | R1 |
+| 18k resistor | | 1 | R1 |
 | 10k resistor | | 1 | R2 |
 | 47uF capacitor | | 1 | |
 | Qwiic connector (JST SH) | [digikey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/SM04B-SRSS-TB/926710) | 1 | optional, for qwiic connector |
