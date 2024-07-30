@@ -20,6 +20,7 @@ Use the AVR versions of JMotor functions not the ESP32 versions.
 
 ## Options for purchasing
 
+* [PCBWay link](https://www.pcbway.com/project/shareproject/Cheap_wifi_connected_Robot_Control_Module_RCM_D1_v1_0_a19b71a2.html)
 * send the gerbers to a PCB manufacturer of your choice
 
 ## Components
