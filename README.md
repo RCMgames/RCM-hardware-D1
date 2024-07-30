@@ -30,9 +30,9 @@ Solder by hand to assemble your boards.
 | Wemos D1 mini with esp8266 | [link](https://www.wemos.cc/en/latest/d1/d1_mini.html) | 1 | |
 | L293D | [digikey](https://www.digikey.com/en/products/detail/texas-instruments/L293DNE/379724) | 1 | |
 | 16 pin IC socket | | 1 | optional |
-| 18k resistor | [0.13 inch long resistor](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNMF14FTC18K0/2617300) | 1 | R1 |
-| 10k resistor | [0.13 inch long resistor](https://www.digikey.com/en/products/detail/yageo/MFR-12FTF52-10K/9133815) | 1 | R2 |
-| 47uF capacitor | | 1 | |
+| 18k resistor | [digikey](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNMF14FTC18K0/2617300) | 1 | R1 |
+| 10k resistor | [digikey](https://www.digikey.com/en/products/detail/yageo/MFR-12FTF52-10K/9133815) | 1 | R2 |
+| 47uF capacitor | [digikey](https://www.digikey.com/en/products/detail/rubycon/63ZLJ47M6-3X11/3134467) | 1 | |
 | Qwiic connector (JST SH) | [digikey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/SM04B-SRSS-TB/926710) | 1 | optional, for qwiic connector |
 | 2x3 male header pins | | 1 | for servos |
 | 2 female header pins | | 2 | for motors |
