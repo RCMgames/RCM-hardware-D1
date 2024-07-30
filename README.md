@@ -40,7 +40,7 @@ Solder by hand to assemble your boards.
 | 8 male header pins | | 2 | often included with the wemos D1 |
 | battery wires | [JST RCY](https://www.amazon.com/dp/B00Z04QFN2/) or battery plug of your choice | 1 | |
 
-![screenshot of cad](https://github.com/RCMgames/RCM-hardware-D1/blob/main/CAD%20renders/image%201.jpg)
+![photo of assembled board](https://github.com/RCMgames/RCM-hardware-D1/blob/4e2fc0ec890348c75a8239374bd78f8cda3d46ad/Photos/image%201.JPG)
 
 ## Acknowledgements
 
